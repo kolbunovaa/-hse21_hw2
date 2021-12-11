@@ -6,8 +6,9 @@
 ![](https://github.com/kolbunovaa/images/blob/main/2021-12-11_13-54-26.png)
 
 ![](https://github.com/kolbunovaa/images/blob/main/2021-12-11_13-54-54.png)
-![]()
-![]()
+
+Т.е. белков без аннотации осталось 283 - 52 = 231 
+
 ![]()
 ![]()
 ![]()
